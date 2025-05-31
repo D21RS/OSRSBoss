@@ -1,0 +1,560 @@
+[
+  {
+    "boss": "Abyssal Sire",
+    "items": [
+      "Unsired",
+      "Abyssal head",
+      "Jar of miasma",
+      "Abyssal orphan"
+    ]
+  },
+  {
+    "boss": "Alchemical Hydra",
+    "items": [
+      "Hydra's claw",
+      "Hydra tail",
+      "Hydra leather",
+      "Jar of chemicals",
+      "Ikkle hydra"
+    ]
+  },
+  {
+    "boss": "Artio",
+    "items": [
+      "Voidwaker hilt",
+      "Claws of Callisto",
+      "Dragon pickaxe",
+      "Tyrannical ring",
+      "Jar of spirits",
+      "Callisto cub"
+    ]
+  },
+  {
+    "boss": "Barrows Chests",
+    "items": [
+      "Ahrim's hood",
+      "Ahrim's robetop",
+      "Ahrim's robeskirt",
+      "Ahrim's staff",
+      "Dharok's helm",
+      "Dharok's platebody",
+      "Dharok's platelegs",
+      "Dharok's greataxe",
+      "Guthan's helm",
+      "Guthan's platebody",
+      "Guthan's chainskirt",
+      "Guthan's warspear",
+      "Karil's coif",
+      "Karil's leathertop",
+      "Karil's leatherskirt",
+      "Karil's crossbow",
+      "Torag's helm",
+      "Torag's platebody",
+      "Torag's platelegs",
+      "Torag's hammers",
+      "Verac's helm",
+      "Verac's brassard",
+      "Verac's plateskirt",
+      "Verac's flail"
+    ]
+  },
+  {
+    "boss": "Bryophyta",
+    "items": [
+      "Bryophyta's essence"
+    ]
+  },
+  {
+    "boss": "Callisto",
+    "items": [
+      "Voidwaker hilt",
+      "Claws of Callisto",
+      "Dragon pickaxe",
+      "Tyrannical ring",
+      "Jar of spirits",
+      "Callisto cub"
+    ]
+  },
+  {
+    "boss": "Calvar'ion",
+    "items": [
+      "Voidwaker blade",
+      "Skull of Vet'ion",
+      "Dragon pickaxe",
+      "Ring of the gods",
+      "Jar of stone",
+      "Vet'ion jr."
+    ]
+  },
+  {
+    "boss": "Cerberus",
+    "items": [
+      "Primordial crystal",
+      "Pegasian crystal",
+      "Eternal crystal",
+      "Smouldering stone",
+      "Hellpuppy"
+    ]
+  },
+  {
+    "boss": "Chambers of Xeric",
+    "items": [
+      "Arcane prayer scroll",
+      "Dexterous prayer scroll",
+      "Twisted buckler",
+      "Dragon hunter crossbow",
+      "Dinh's bulwark",
+      "Ancestral hat",
+      "Ancestral robe top",
+      "Ancestral robe bottom",
+      "Dragon claws",
+      "Elder maul",
+      "Kodai insignia",
+      "Twisted bow",
+      "Metamorphic dust",
+      "Olmlet"
+    ]
+  },
+  {
+    "boss": "Chaos Elemental",
+    "items": [
+      "Dragon pickaxe",
+      "Dragon 2h sword",
+      "Pet chaos elemental"
+    ]
+  },
+  {
+    "boss": "Chaos Fanatic",
+    "items": [
+      "Odium shard 2",
+      "Malediction shard 2",
+      "Pet chaos elemental"
+    ]
+  },
+  {
+    "boss": "Commander Zilyana",
+    "items": [
+      "Saradomin sword",
+      "Saradomin hilt",
+      "Pet zilyana"
+    ]
+  },
+  {
+    "boss": "Corporeal Beast",
+    "items": [
+      "Arcane sigil",
+      "Spectral sigil",
+      "Elysian sigil",
+      "Holy elixir",
+      "Pet dark core"
+    ]
+  },
+  {
+    "boss": "Crazy Archaeologist",
+    "items": [
+      "Odium shard 1",
+      "Malediction shard 1",
+      "Fedora"
+    ]
+  },
+  {
+    "boss": "Dagannoth Prime",
+    "items": [
+      "Seers ring",
+      "Mud battlestaff",
+      "Pet dagannoth prime"
+    ]
+  },
+  {
+    "boss": "Dagannoth Rex",
+    "items": [
+      "Berserker ring",
+      "Warrior ring",
+      "Pet dagannoth rex"
+    ]
+  },
+  {
+    "boss": "Dagannoth Supreme",
+    "items": [
+      "Archers ring",
+      "Dragon axe",
+      "Pet dagannoth supreme"
+    ]
+  },
+  {
+    "boss": "Deranged Archaeologist",
+    "items": [
+      "Odium shard 3",
+      "Malediction shard 3"
+    ]
+  },
+  {
+    "boss": "Duke Sucellus",
+    "items": [
+      "Ancient icon",
+      "Ancient sceptre",
+      "Pet duke"
+    ]
+  },
+  {
+    "boss": "General Graardor",
+    "items": [
+      "Bandos tassets",
+      "Bandos chestplate",
+      "Bandos boots",
+      "Bandos hilt",
+      "Pet general graardor"
+    ]
+  },
+  {
+    "boss": "Giant Mole",
+    "items": [
+      "Dragon 2h sword",
+      "Mole skin",
+      "Mole claw",
+      "Baby mole"
+    ]
+  },
+  {
+    "boss": "Grotesque Guardians",
+    "items": [
+      "Granite hammer",
+      "Granite ring",
+      "Black tourmaline core",
+      "Noon"
+    ]
+  },
+  {
+    "boss": "Hespori",
+    "items": [
+      "Bottomless compost bucket",
+      "Attas seed",
+      "Iasor seed",
+      "Kronos seed",
+      "Hespori plant"
+    ]
+  },
+  {
+    "boss": "Kalphite Queen",
+    "items": [
+      "Dragon chainbody",
+      "Kalphite princess"
+    ]
+  },
+  {
+    "boss": "King Black Dragon",
+    "items": [
+      "Draconic visage",
+      "Kbd heads",
+      "Prince black dragon"
+    ]
+  },
+  {
+    "boss": "Kraken",
+    "items": [
+      "Kraken tentacle",
+      "Trident of the seas (full)",
+      "Magic fang",
+      "Pet kraken"
+    ]
+  },
+  {
+    "boss": "Kree'arra",
+    "items": [
+      "Armadyl helmet",
+      "Armadyl chestplate",
+      "Armadyl chainskirt",
+      "Armadyl hilt",
+      "Pet kree'arra"
+    ]
+  },
+  {
+    "boss": "K'ril Tsutsaroth",
+    "items": [
+      "Zamorakian spear",
+      "Steam battlestaff",
+      "Zamorak hilt",
+      "Pet k'ril tsutsaroth"
+    ]
+  },
+  {
+    "boss": "Mimic",
+    "items": [
+      "Tormented ornament kit",
+      "Ancestral ornament kit",
+      "Dragon defender ornament kit",
+      "Holy ornament kit",
+      "Pet mimic"
+    ]
+  },
+  {
+    "boss": "Nex",
+    "items": [
+      "Zaryte vambraces",
+      "Zaryte crossbow",
+      "Torva full helm",
+      "Torva platebody",
+      "Torva platelegs",
+      "Ancient hilt",
+      "Pet nexling"
+    ]
+  },
+  {
+    "boss": "Nightmare",
+    "items": [
+      "Nightmare staff",
+      "Inquisitor's great helm",
+      "Inquisitor's hauberk",
+      "Inquisitor's plateskirt",
+      "Inquisitor's mace",
+      "Harmonised orb",
+      "Volatile orb",
+      "Eldritch orb",
+      "Little nightmare"
+    ]
+  },
+  {
+    "boss": "Obor",
+    "items": [
+      "Hill giant club"
+    ]
+  },
+  {
+    "boss": "Phantom Muspah",
+    "items": [
+      "Frozen cache",
+      "Venator bow",
+      "Pet muspah"
+    ]
+  },
+  {
+    "boss": "Phosani's Nightmare",
+    "items": [
+      "Inquisitor's great helm",
+      "Inquisitor's hauberk",
+      "Inquisitor's plateskirt",
+      "Inquisitor's mace",
+      "Harmonised orb",
+      "Volatile orb",
+      "Eldritch orb",
+      "Siren's staff",
+      "Pet velenyra"
+    ]
+  },
+  {
+    "boss": "Sarachnis",
+    "items": [
+      "Giant egg sac",
+      "Sarachnis cudgel",
+      "Old spider fang",
+      "Sarachnis pet"
+    ]
+  },
+  {
+    "boss": "Scorpia",
+    "items": [
+      "Odium shard 3",
+      "Malediction shard 3",
+      "Scorpia's offspring"
+    ]
+  },
+  {
+    "boss": "Scurrius",
+    "items": [
+      "Chewed bones",
+      "Cat ears",
+      "Pet scurrius"
+    ]
+  },
+  {
+    "boss": "Skotizo",
+    "items": [
+      "Uncut onyx",
+      "Dark claw",
+      "Ancient shards",
+      "Pet skotos"
+    ]
+  },
+  {
+    "boss": "Sol Heredit",
+    "items": [
+      "Corrupting sigil",
+      "Corrupting crystal",
+      "Sol skull",
+      "Pet sol"
+    ]
+  },
+  {
+    "boss": "Spindel",
+    "items": [
+      "Voidwaker blade",
+      "Fangs of venenatis",
+      "Dragon pickaxe",
+      "Ring of the gods",
+      "Jar of venom",
+      "Venenatis spiderling"
+    ]
+  },
+  {
+    "boss": "The Corrupted Gauntlet",
+    "items": [
+      "Enhanced crystal weapon seed",
+      "Crystal armour seed",
+      "Pet youngllef"
+    ]
+  },
+  {
+    "boss": "The Gauntlet",
+    "items": [
+      "Blade of saeldor (inactive)",
+      "Crystal weapon seed",
+      "Crystal armour seed",
+      "Pet youngllef"
+    ]
+  },
+  {
+    "boss": "The Leviathan",
+    "items": [
+      "Ancient sceptre (or)",
+      "Leviathan's lure",
+      "Pet levi"
+    ]
+  },
+  {
+    "boss": "The Whisperer",
+    "items": [
+      "Whisperer's fang",
+      "Whisperer's hood",
+      "Pet whisperer"
+    ]
+  },
+  {
+    "boss": "Theatre of Blood",
+    "items": [
+      "Avernic defender hilt",
+      "Ghrazi rapier",
+      "Sanguinesti staff",
+      "Scythe of vitur (uncharged)",
+      "Justiciar faceguard",
+      "Justiciar chestguard",
+      "Justiciar legguards",
+      "Verzik's crystal shard",
+      "Lil' zik"
+    ]
+  },
+  {
+    "boss": "Theatre of Blood Hard Mode",
+    "items": [
+      "Sanguine dust",
+      "Holy ornament kit",
+      "Sanguine ornament kit"
+    ]
+  },
+  {
+    "boss": "Thermonuclear Smoke Devil",
+    "items": [
+      "Occult necklace",
+      "Smoke battlestaff",
+      "Pet smoke devil"
+    ]
+  },
+  {
+    "boss": "Tombs of Amascut",
+    "items": [
+      "Tumeken's shadow (uncharged)",
+      "Elidinis' ward (uncharged)",
+      "Masori body",
+      "Masori chaps",
+      "Masori mask",
+      "Osmumten's fang",
+      "Lightbearer",
+      "Keris partisan of the sun",
+      "Breastplate of the scarab",
+      "Pet tumeken"
+    ]
+  },
+  {
+    "boss": "Tombs of Amascut Expert Mode",
+    "items": [
+      "Tumeken's guardian kit",
+      "Eye of the corrupted"
+    ]
+  },
+  {
+    "boss": "TzKal-Zuk",
+    "items": [
+      "Infernal cape",
+      "Jal-nib-rek"
+    ]
+  },
+  {
+    "boss": "TzTok-Jad",
+    "items": [
+      "Fire cape",
+      "Tzrek-jad"
+    ]
+  },
+  {
+    "boss": "Vardorvis",
+    "items": [
+      "Vardorvis's heart",
+      "Vardorvis's chains",
+      "Pet vardorvis"
+    ]
+  },
+  {
+    "boss": "Venenatis",
+    "items": [
+      "Voidwaker blade",
+      "Fangs of venenatis",
+      "Dragon pickaxe",
+      "Ring of the gods",
+      "Jar of venom",
+      "Venenatis spiderling"
+    ]
+  },
+  {
+    "boss": "Vet'ion",
+    "items": [
+      "Voidwaker blade",
+      "Skull of Vet'ion",
+      "Dragon pickaxe",
+      "Ring of the gods",
+      "Jar of stone",
+      "Vet'ion jr."
+    ]
+  },
+  {
+    "boss": "Vorkath",
+    "items": [
+      "Skeletal visage",
+      "Dragonbone necklace",
+      "Jar of decay",
+      "Vorki"
+    ]
+  },
+  {
+    "boss": "Wintertodt",
+    "items": [
+      "Phoenix"
+    ]
+  },
+  {
+    "boss": "Zalcano",
+    "items": [
+      "Crystal tool seed",
+      "Zalcano shard",
+      "Smolcano"
+    ]
+  },
+  {
+    "boss": "Zulrah",
+    "items": [
+      "Tanzanite fang",
+      "Magic fang",
+      "Serpentine visage",
+      "Jar of swamp",
+      "Pet snakeling"
+    ]
+  }
+]
